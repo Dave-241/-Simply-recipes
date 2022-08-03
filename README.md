@@ -9,5 +9,5 @@ It mainly shows suggestions of recipes
   Access this site  here [Simply link](https://www.simply.davisisibor.com)
     
   <strong> What i learned : </strong> 
-  1. css postioning using flexbox and grid
-  2. html class names decleration
+  1. css positioning using flexbox and grid
+  2. html class names declaration
