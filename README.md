@@ -8,6 +8,4 @@ It mainly shows suggestions of recipes
  
   Access this site  here [Simply link](https://www.simply.davisisibor.com)
     
-  <strong> What i learned : </strong> 
-  1. css positioning using flexbox and grid
-  2. html class names declaration
+![Realtor](https://davisisibor.com/wp-content/uploads/2022/08/Screenshot-42.png)
